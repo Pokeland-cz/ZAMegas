@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:kabutops",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": [
+        "mega"
+      ],
+      "poser": "cobblemon:kabutops_mega",
+      "model": "cobblemon:kabutops_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0141_kabutops/kabutops_mega.png"
+    },
+    {
+      "aspects": [
+        "mega",
+        "shiny"
+      ],
+      "poser": "cobblemon:kabutops_mega",
+      "model": "cobblemon:kabutops_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0141_kabutops/kabutops_mega_shiny.png"
+    }
+  ]
+}
