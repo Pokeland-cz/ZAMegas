@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:lapras",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": [
+        "mega"
+      ],
+      "model": "cobblemon:lapras_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0131_lapras/mega_lapras.png"
+    },
+    {
+      "aspects": [
+        "mega",
+        "shiny"
+      ],
+      "model": "cobblemon:lapras_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0131_lapras/mega_lapras_shiny.png"
+    }
+  ]
+}

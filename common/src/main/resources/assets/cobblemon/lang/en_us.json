@@ -64,6 +64,7 @@
   "cobblemon.species.tatsugiri-stretchy-mega.desc": "Using the energy of Mega Evolution, it creates a dish to ride upon, allowing it to move with total freedom-even through the air.",
   "cobblemon.species.tatsugiri-droopy-mega.desc": "It solidifies the energy of Mega Evolution, building up an overflowing pile to launch as projectiles. These projectiles explode on contact.",
   "cobblemon.species.floette-ange.desc": "????????????????????????",
+  "cobblemon.species.lapras-mega.desc": "Once hunted to near extinction, Mega Evolution awakens a divine, protective power within it. It surrounds itself in a veil of auroras, ensuring no harm can come to those riding upon its back.",
   "cobblemon.species.flygon-mega.desc": "By beating its six wings at supersonic frequencies, it creates violent shockwaves. The sound is so concentrated that its cries are weaponized into devastating sonic booms.",
   "cobblemon.species.kabutops-mega.desc": "Mega Evolution restores the brutal, apex form it possessed before its extinction. Its newly serrated scythes are so sharp they can carve through solid steel submarines like butter.",
   "cobblemon.ui.pokedex.info.form.mega x": "Mega X",
@@ -106,8 +107,10 @@
   "cobblemon.ui.pokedex.info.form.staraptor": "Normal",
   "cobblemon.ui.pokedex.info.form.golurk": "Normal",
   "cobblemon.ui.pokedex.info.form.flygon": "Normal",
+  "cobblemon.ui.pokedex.info.form.lapras": "Normal",
   "cobblemon.ui.pokedex.info.form.kabutops": "Normal",
   "cobblemon.ui.pokedex.info.form.kabutops-mega": "Mega",
+  "cobblemon.ui.pokedex.info.form.lapras-mega": "Mega",
   "cobblemon.ui.pokedex.info.form.flygon-mega": "Mega",
   "cobblemon.ui.pokedex.info.form.raichu-megax": "MegaX",
   "cobblemon.ui.pokedex.info.form.raichu-megay": "MegaY",
@@ -256,6 +259,8 @@
   "cobblemon.battle.activate.retreat": "%1$s fled away",
   "item.zamega.flygonite": "Flygonite",
   "tooltip.zamega.flygonite.tooltip": "Allows Flygon to Mega Evolve into Mega Flygon",
+  "item.zamega.laprasite": "Laprasite",
+  "tooltip.zamega.laprasite.tooltip": "Allows Lapras to Mega Evolve into Mega Lapras",
   "item.zamega.kabutopsinite": "Kabutopsinite",
   "tooltip.zamega.kabutopsinite.tooltip": "Allows Kabutops to Mega Evolve into Mega Kabutops"
 }
