@@ -7,6 +7,8 @@
   "cobblemon.ability.piercingdrill.desc": "When the Pokémon uses contact moves, it can hit even targets that are protecting themselves, dealing 1/4 of the damage that the move would otherwise deal. Everything aside from the target's protective effects is still triggered.",
   "cobblemon.ability.spicyspray": "Spicy Spray",
   "cobblemon.ability.spicyspray.desc": "When the Pokémon takes damage from a move, it burns the attacker.",
+  "cobblemon.ability.modernmeganeura": "Modern Meganeura",
+  "cobblemon.ability.modernmeganeura.desc": "This Pokemon's Normal-type moves become Bug-type and have 1.2x power.",
   "cobblemon.move.nihillight": "Nihil Light",
   "cobblemon.move.nihillight.desc": "The user attacks by unleashing a powerful light that defies all laws of nature, striking even Fairy types and ignoring any stat changes affecting its targets.",
   "cobblemon.species.barbaracle-mega.desc": "Baxcalibur's dorsal blade has grown even more massive thanks to Mega Evolution. This Pokémon fires beams from the hilt at its solar plexus.",
@@ -60,6 +62,7 @@
   "cobblemon.species.tatsugiri-stretchy-mega.desc": "Using the energy of Mega Evolution, it creates a dish to ride upon, allowing it to move with total freedom-even through the air.",
   "cobblemon.species.tatsugiri-droopy-mega.desc": "It solidifies the energy of Mega Evolution, building up an overflowing pile to launch as projectiles. These projectiles explode on contact.",
   "cobblemon.species.floette-ange.desc": "????????????????????????",
+  "cobblemon.species.flygon-mega.desc": "By beating its six wings at supersonic frequencies, it creates violent shockwaves. The sound is so concentrated that its cries are weaponized into devastating sonic booms.",
   "cobblemon.ui.pokedex.info.form.mega x": "Mega X",
   "cobblemon.ui.pokedex.info.form.mega y": "Mega Y",
   "cobblemon.ui.pokedex.info.form.mega z": "Mega Z",
@@ -99,6 +102,8 @@
   "cobblemon.ui.pokedex.info.form.golisopod": "Normal",
   "cobblemon.ui.pokedex.info.form.staraptor": "Normal",
   "cobblemon.ui.pokedex.info.form.golurk": "Normal",
+  "cobblemon.ui.pokedex.info.form.flygon": "Normal",
+  "cobblemon.ui.pokedex.info.form.flygon-mega": "Mega",
   "cobblemon.ui.pokedex.info.form.raichu-megax": "MegaX",
   "cobblemon.ui.pokedex.info.form.raichu-megay": "MegaY",
   "cobblemon.ui.pokedex.info.form.lucario-megaz": "MegaZ",
@@ -243,5 +248,7 @@
   "item.zamega.ange": "Ange",
   "tooltip.zamega.ange.tooltip": "A crystal which contains a doomed energy",
   "creativeTab.zamegas.tab": "ZA Megas",
-  "cobblemon.battle.activate.retreat": "%1$s fled away"
+  "cobblemon.battle.activate.retreat": "%1$s fled away",
+  "item.zamega.flygonite": "Flygonite",
+  "tooltip.zamega.flygonite.tooltip": "Allows Flygon to Mega Evolve into Mega Flygon"
 }

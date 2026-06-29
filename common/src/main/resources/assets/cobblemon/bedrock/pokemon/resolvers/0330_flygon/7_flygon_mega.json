@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:flygon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["mega"],
+      "poser": "cobblemon:flygon_mega",
+      "model": "cobblemon:flygon_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0330_flygon/flygon_mega.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0330_flygon/flygon_mega_e.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [ "mega", "shiny" ],
+      "poser": "cobblemon:flygon_mega",
+      "model": "cobblemon:flygon_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0330_flygon/flygon_mega_shiny.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0330_flygon/flygon_mega_shiny_e.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

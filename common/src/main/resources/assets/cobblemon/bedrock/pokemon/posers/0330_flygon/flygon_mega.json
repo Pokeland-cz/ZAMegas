@@ -1,0 +1,58 @@
+{
+  "portraitScale": 2,
+  "portraitTranslation": [ 0, 1.52, 0 ],
+  "profileScale": 0.58,
+  "profileTranslation": [ -0.02, 0.90, 0 ],
+  "poses": {
+    "battle-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": [
+        "q.look('neck')",
+        "q.bedrock('flygon_mega', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('flygon_mega', 'blink')"
+      ]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "FLOAT", "PROFILE"],
+      "isBattle": false,
+      "animations": [
+        "q.look('neck')",
+        "q.bedrock('flygon_mega', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('flygon_mega', 'blink')"
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": [
+        "q.look('neck')",
+        "q.bedrock('flygon_mega', 'ground_walk')"
+      ],
+      "quirks": ["q.bedrock_quirk('flygon_mega', 'blink')"]
+    },
+    "float": {
+      "poseTypes": ["HOVER"],
+      "animations": [
+        "q.look('neck')",
+        "q.bedrock('flygon_mega', 'air_idle')"
+      ],
+      "quirks": ["q.bedrock_quirk('flygon_mega', 'blink')"]
+    },
+    "fly": {
+      "poseTypes": ["FLY"],
+      "animations": [
+        "q.look('neck')",
+        "q.bedrock('flygon_mega', 'air_fly')"
+      ],
+      "quirks": ["q.bedrock_quirk('flygon_mega', 'blink')"]
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "animations": ["q.bedrock('flygon_mega', 'sleep')"]
+    }
+  }
+}

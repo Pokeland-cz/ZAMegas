@@ -1,0 +1,27 @@
+{
+  "target": "cobblemon:flygon",
+  "features": ["mega_evolution"],
+  "forms": [
+    {
+      "name": "Mega",
+      "primaryType": "bug",
+      "secondaryType": "dragon",
+      "pokedex": ["cobblemon.species.flygon-mega.desc"],
+      "labels": ["gen3", "mega"],
+      "aspects": ["mega"],
+      "abilities": ["modernmeganeura", "modernmeganeura", "h:modernmeganeura"],
+      "baseStats": {
+        "hp": 80,
+        "attack": 130,
+        "defence": 85,
+        "special_attack": 130,
+        "special_defence": 85,
+        "speed": 110
+      },
+      "battleOnly": true,
+      "dynamaxBlocked": true,
+      "height": 14,
+      "weight": 950
+    }
+  ]
+}
