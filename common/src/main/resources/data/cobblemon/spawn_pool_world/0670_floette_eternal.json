@@ -1,0 +1,25 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "floette-eternal-1",
+            "pokemon": "floette flower=eternal",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "ultra-rare",
+            "level": "60",
+            "weight": 0.9,
+            "condition": {
+                "timeRange": "night",
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ]
+            }
+        }
+   ]
+}
