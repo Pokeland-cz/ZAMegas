@@ -5,7 +5,7 @@
     {
       "name": "Mega",
       "pokedex": ["cobblemon.species.scrafty-mega.desc"],
-      "abilities": ["shedskin", "shedskin", "h:shedskin"],
+      "abilities": ["intimidate", "intimidate", "h:intimidate"],
       "labels": ["gen5", "mega"],
       "aspects": ["mega"],
       "battleOnly": true,

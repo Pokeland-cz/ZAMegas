@@ -7,7 +7,7 @@
       "primaryType": "fighting",
       "secondaryType": "flying",
       "pokedex": ["cobblemon.species.staraptor-mega.desc"],
-      "abilities": ["toughclaws", "h:toughclaws"],
+      "abilities": ["contrary", "h:contrary"],
       "labels": ["gen4", "mega"],
       "aspects": ["mega"],
       "battleOnly": true,

@@ -7,7 +7,7 @@
       "pokedex": ["cobblemon.species.raichu-mega-x.desc"],
       "labels": ["gen1", "mega_x"],
       "aspects": ["mega_x"],
-      "abilities": ["levitate", "h:levitate"],
+      "abilities": ["electricsurge", "h:electricsurge"],
       "baseStats": {
         "hp": 60,
         "attack": 135,
@@ -26,7 +26,7 @@
       "pokedex": ["cobblemon.species.raichu-mega-y.desc"],
       "labels": ["gen1", "mega_y"],
       "aspects": ["mega_y"],
-      "abilities": ["transistor", "h:transistor"],
+      "abilities": ["noguard", "h:noguard"],
       "baseStats": {
         "hp": 60,
         "attack": 100,

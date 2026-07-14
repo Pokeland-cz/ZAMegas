@@ -5,7 +5,7 @@
     {
       "name": "Mega",
       "pokedex": ["cobblemon.species.eelektross-mega.desc"],
-      "abilities": ["hadronengine", "h:hadronengine"],
+      "abilities": ["eelevate", "h:eelevate"],
       "labels": ["gen5", "mega"],
       "aspects": ["mega"],
       "battleOnly": true,

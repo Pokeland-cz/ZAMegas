@@ -5,7 +5,7 @@
     {
       "name": "Mega",
       "pokedex": ["cobblemon.species.falinks-mega.desc"],
-      "abilities": ["dauntlessshield", "h:dauntlessshield"],
+      "abilities": ["defiant", "h:defiant"],
       "labels": ["gen8", "mega"],
       "aspects": ["mega"],
       "battleOnly": true,

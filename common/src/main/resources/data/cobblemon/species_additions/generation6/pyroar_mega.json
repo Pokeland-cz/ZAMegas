@@ -5,7 +5,7 @@
     {
       "name": "Mega",
       "pokedex": ["cobblemon.species.pyroar-mega.desc"],
-      "abilities": ["drought", "drought", "h:drought"],
+      "abilities": ["firemane", "firemane", "h:firemane"],
       "labels": ["gen6", "mega"],
       "aspects": ["mega"],
       "battleOnly": true,
